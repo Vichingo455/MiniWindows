@@ -15,6 +15,7 @@ Mini11 is a lightweight Windows 11 by the MiniWindows Team, which doesn't contai
 - Mini11 offers the purest Windows 11 experience yet and is recommended for older hardware.
 - Mini11 GX is designed for gaming with an emphasis on lower delays and higher frame rates.
 - Mini11 Legacy offers an upgraded version of the 21H2 RTM experience.
+
 It can run on 256MB of RAM and can take up as little as 4GB of drive space - it can even be installed on 8GB drives*. Users can even upgrade to it as it supports in-place upgrading, and can install it on a USB flash drive**.
 
 <p>* As tested on Mini11 and Mini11 GX. Mini11 Legacy is slightly larger than 8 GB.
